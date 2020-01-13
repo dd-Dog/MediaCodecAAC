@@ -1,0 +1,67 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\NDKProject\mediaCodecAudioEncoder\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from G:\NDKProject\mediaCodecAudioEncoder\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from G:\NDKProject\mediaCodecAudioEncoder\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from G:\NDKProject\mediaCodecAudioEncoder\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from G:\NDKProject\mediaCodecAudioEncoder\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from G:\NDKProject\mediaCodecAudioEncoder\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from G:\NDKProject\mediaCodecAudioEncoder\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from G:\NDKProject\mediaCodecAudioEncoder\src\main\AndroidManifest.xml:3:5-55
+		INJECTED from G:\NDKProject\mediaCodecAudioEncoder\src\main\AndroidManifest.xml
+		INJECTED from G:\NDKProject\mediaCodecAudioEncoder\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from G:\NDKProject\mediaCodecAudioEncoder\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from G:\NDKProject\mediaCodecAudioEncoder\src\main\AndroidManifest.xml
+		INJECTED from G:\NDKProject\mediaCodecAudioEncoder\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\NDKProject\mediaCodecAudioEncoder\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from G:\NDKProject\mediaCodecAudioEncoder\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from G:\NDKProject\mediaCodecAudioEncoder\src\main\AndroidManifest.xml
+		INJECTED from G:\NDKProject\mediaCodecAudioEncoder\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from G:\NDKProject\mediaCodecAudioEncoder\src\main\AndroidManifest.xml:7:5-47
+INJECTED from G:\NDKProject\mediaCodecAudioEncoder\src\main\AndroidManifest.xml:7:5-47
+INJECTED from G:\NDKProject\mediaCodecAudioEncoder\src\main\AndroidManifest.xml:7:5-47
+INJECTED from G:\NDKProject\mediaCodecAudioEncoder\src\main\AndroidManifest.xml:7:5-47
+INJECTED from G:\NDKProject\mediaCodecAudioEncoder\src\main\AndroidManifest.xml:7:5-47
+	android:targetSdkVersion
+		ADDED from G:\NDKProject\mediaCodecAudioEncoder\src\main\AndroidManifest.xml:7:15-44
+		INJECTED from G:\NDKProject\mediaCodecAudioEncoder\src\main\AndroidManifest.xml
+		INJECTED from G:\NDKProject\mediaCodecAudioEncoder\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\NDKProject\mediaCodecAudioEncoder\src\main\AndroidManifest.xml
+		ADDED from G:\NDKProject\mediaCodecAudioEncoder\src\main\AndroidManifest.xml:7:5-47
+		INJECTED from G:\NDKProject\mediaCodecAudioEncoder\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from G:\NDKProject\mediaCodecAudioEncoder\src\main\AndroidManifest.xml:9:2-78
+	android:name
+		ADDED from G:\NDKProject\mediaCodecAudioEncoder\src\main\AndroidManifest.xml:9:19-75
+application
+ADDED from G:\NDKProject\mediaCodecAudioEncoder\src\main\AndroidManifest.xml:11:5-25:19
+	android:label
+		ADDED from G:\NDKProject\mediaCodecAudioEncoder\src\main\AndroidManifest.xml:14:9-41
+	android:icon
+		ADDED from G:\NDKProject\mediaCodecAudioEncoder\src\main\AndroidManifest.xml:13:9-45
+	android:allowBackup
+		ADDED from G:\NDKProject\mediaCodecAudioEncoder\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from G:\NDKProject\mediaCodecAudioEncoder\src\main\AndroidManifest.xml:15:9-40
+activity#com.phuket.tour.mediacodec.audio.encoder.MainActivity
+ADDED from G:\NDKProject\mediaCodecAudioEncoder\src\main\AndroidManifest.xml:16:9-24:20
+	android:label
+		ADDED from G:\NDKProject\mediaCodecAudioEncoder\src\main\AndroidManifest.xml:18:13-45
+	android:name
+		ADDED from G:\NDKProject\mediaCodecAudioEncoder\src\main\AndroidManifest.xml:17:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from G:\NDKProject\mediaCodecAudioEncoder\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from G:\NDKProject\mediaCodecAudioEncoder\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from G:\NDKProject\mediaCodecAudioEncoder\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\NDKProject\mediaCodecAudioEncoder\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from G:\NDKProject\mediaCodecAudioEncoder\src\main\AndroidManifest.xml:22:27-74

@@ -1,0 +1,4 @@
+#Mon Jan 13 18:11:51 GMT+08:00 2020
+base.0=G\:\\NDKProject\\mediaCodecAudioEncoder\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
